@@ -1,5 +1,12 @@
 ## Satisgo SDK
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/drymonsoon/satisgo)](https://goreportcard.com/report/github.com/drymonsoon/satisgo)
+[![Build Status](https://travis-ci.org/drymonsoon/satisgo.svg?branch=master)](https://travis-ci.org/drymonsoon/satisgo)
+[![Docs](https://img.shields.io/badge/docs-current-brightgreen.svg)](https://godoc.org/github.com/drymonsoon/satisgo)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/drymonsoon/satisgo/blob/master/LICENSE.md)
+
+
+
 This is an SDK for the Satispay Business API.
 
 It's not ***production*** ready but all the functions are there.
